@@ -17,7 +17,7 @@ Title block should be placed on the bottom right corner of the sheet.
 Please, see the attached example (the drawing). 
 
 How to design your own title block: see this video (thanks Robert Feranec!):
-https://lnkd.in/eTfEX-R
+https://www.youtube.com/watch?v=cD-iW0LNR9Q
 
 method #1:
 example of using a title block inserted from the SCH library into the schematic sheet: please see Schematic_example.SchDoc and title_block_lib.SchLib
